@@ -1,6 +1,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishq826&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+![Snake](https://raw.githubusercontent.com/tanishq826/tanishq826/output/snake-dark.svg)
+
 # # Hey, I'm Tanishq 👋
 
 **Data Engineer** · Faridabad, India · Open to remote roles worldwide
