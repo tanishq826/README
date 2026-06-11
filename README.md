@@ -1,6 +1,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tanishq826&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/tanishq826)
 
 # # Hey, I'm Tanishq 👋
 
