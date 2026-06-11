@@ -1,3 +1,6 @@
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 # # Hey, I'm Tanishq 👋
 
 **Data Engineer** · Faridabad, India · Open to remote roles worldwide
