@@ -38,10 +38,12 @@ A computer vision model that classifies sign language gestures in real time. Bui
 | Area | Tools |
 |---|---|
 | Languages | Python · SQL |
-| Data Engineering | PySpark · dbt · Hadoop |
+| Data Engineering | PySpark · dbt · Hadoop |                                                          
 | Platforms | Databricks · AWS S3 · PostgreSQL |
 | Analytics & Viz | Power BI · Tableau · Pandas |
 | Other | Django · Git |
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
