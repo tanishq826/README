@@ -1,7 +1,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tanishq826&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&width=435&lines=Data+Engineer;Pipeline+Builder;PySpark+%2B+dbt+%2B+Databricks;Open+to+Remote+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&width=435&lines=Open+to+Remote+Roles)](https://git.io/typing-svg)
 
 # # Hey, I'm Tanishq 👋
 
