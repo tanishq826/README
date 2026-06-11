@@ -1,5 +1,5 @@
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishq826&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 # # Hey, I'm Tanishq 👋
 
