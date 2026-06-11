@@ -3,6 +3,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tanishq826&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+![Profile Views](https://komarev.com/ghpvc/?username=tanishq826&color=1D9E75&style=flat)
+
 # # Hey, I'm Tanishq 👋
 
 **Data Engineer** · Faridabad, India · Open to remote roles worldwide
