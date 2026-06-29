@@ -21,8 +21,8 @@ I care about code that's readable, pipelines that don't break silently, and docu
 
 ## Projects
 
-### 🗄️ PySpark × dbt End-to-End Data Engineering Pipeline
-A production-style data pipeline built entirely on Databricks. Raw data is ingested, processed with PySpark, transformed and tested with dbt, and served to downstream consumers. Covers medallion architecture (bronze → silver → gold), incremental models, and data quality checks.
+### 🗄️ End-to-End Uber Data Engineering Pipeline using Databricks and DBT Cloud 
+A production-style data pipeline built entirely on Databricks and DBT Cloud. Raw data is ingested, processed with PySpark, transformed and tested with dbt, and served to downstream consumers. Covers medallion architecture (bronze → silver → gold), incremental models, and data quality checks.
 
 `Apache Spark` `dbt` `Databricks` `SQL`
 
