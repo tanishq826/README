@@ -61,4 +61,4 @@ Actively looking for **remote data engineering roles** where I can build robust 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-saini-b0bb17381)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/tanishqsaini_111/)
-[![DataLemur](https://img.shields.io/badge/DataLemur-1A1A2E?style=flat&logoColor=white)](https://datalemur.com/profile)
+[![HackerRank](https://img.shields.io/badge/DataLemur-1A1A2E?style=flat&logoColor=white)](https://www.hackerrank.com/profile/tanishqsaini826))
