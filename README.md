@@ -5,7 +5,7 @@
 
 # # Hey, I'm Tanishq 👋
 
-**Data Engineer** · Faridabad, India · Open to remote roles worldwide
+· Faridabad, India · Open to remote roles worldwide
 
 🎓 B.Tech. Computer Engineering &nbsp;|&nbsp; 📊 PG Diploma in Big Data Analytics &nbsp;|&nbsp; ✅ Open to remote
 
