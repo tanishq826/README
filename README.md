@@ -26,7 +26,6 @@ I care about code that's readable, pipelines that don't break silently, and docu
 An end-to-end modern data engineering project that ingests Uber trip data, transforms it using Databricks and dbt Cloud, and builds an analytics-ready data warehouse following the Medallion Architecture.
 
 `Python` `Apache Spark` `SQL` `DBT Cloud` `Databricks`
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tanishq826&repo=End-to-End-Uber-Data-Engineering-Pipeline-using-Databricks-and-DBT-Cloud&theme=tokyonight&hide_border=true)](https://github.com/tanishq826/End-to-End-Uber-Data-Engineering-Pipeline-using-Databricks-and-DBT-Cloud)
 
 ---
 
@@ -46,8 +45,6 @@ A scalable Retrieval-Augmented Generation (RAG) data pipeline built to ingest, c
 | Data Engineering | ETL/ELT · Batch/Stream Processing (Spark Streaming, Spark SQL) · Data Modeling . Medallion Architecture | 
 | Tools & Platforms | Power BI · Tableau . Excel . Databricks · DBT · MySQL . MongoDB . Git/GitHub . Linux |
 | Big Data Ecosystem | Apache Spark · Hadoop (HDFS, Hive) · Apache Kafka |
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq826&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
