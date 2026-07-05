@@ -3,7 +3,7 @@
 
 
 
-# # Hey, I'm Tanishq 👋                                                  ![Profile Views](https://komarev.com/ghpvc/?username=tanishq826&color=1D9E75&style=flat)
+# # Hey, I'm Tanishq 👋
 
  Faridabad, India · Open to remote roles worldwide
 
@@ -26,6 +26,7 @@ I care about code that's readable, pipelines that don't break silently, and docu
 An end-to-end modern data engineering project that ingests Uber trip data, transforms it using Databricks and dbt Cloud, and builds an analytics-ready data warehouse following the Medallion Architecture.
 
 `Python` `Apache Spark` `SQL` `DBT Cloud` `Databricks`
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tanishq826&repo=End-to-End-Uber-Data-Engineering-Pipeline-using-Databricks-and-DBT-Cloud&theme=tokyonight&hide_border=true)](https://github.com/tanishq826/End-to-End-Uber-Data-Engineering-Pipeline-using-Databricks-and-DBT-Cloud)
 
 ---
 
