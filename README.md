@@ -46,7 +46,7 @@ A scalable Retrieval-Augmented Generation (RAG) data pipeline built to ingest, c
 | Tools & Platforms | Power BI · Tableau . Excel . Databricks · DBT · MySQL . MongoDB . Git/GitHub . Linux |
 | Big Data Ecosystem | Apache Spark · Hadoop (HDFS, Hive) · Apache Kafka |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq826&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
