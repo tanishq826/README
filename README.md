@@ -3,7 +3,7 @@
 
 
 
-# # Hey, I'm Tanishq 👋
+# # Hey, I'm Tanishq 👋                                                  ![Profile Views](https://komarev.com/ghpvc/?username=tanishq826&color=1D9E75&style=flat)
 
  Faridabad, India · Open to remote roles worldwide
 
