@@ -13,7 +13,8 @@
 
 ## About
 
-I'm a data engineer who likes turning messy, distributed data into clean, reliable pipelines. I've worked across the full DE stack — from writing PySpark jobs on Databricks to transforming data with dbt and visualising results in Power BI. My background is in Computer Engineering, backed by a PG diploma in Big Data Analytics, so I'm comfortable going deep on both the infrastructure and the analytics layer.
+CDAC - Certified Computer Engineering Graduate specialized in Python, SQL, Data Analysis and Big Data Technologies via Post Graduate Diploma in Big Data Analytics (CDAC Bangalore). Hands-on experience in building scalable ETL/ELT pipelines, implementing Medallion Architectures, structuring RAG data workflows and having strong analytical and communication skills to optimize business performance and drive data-informed decisions. 
+
 
 I care about code that's readable, pipelines that don't break silently, and documentation that actually explains things.
 
@@ -21,17 +22,17 @@ I care about code that's readable, pipelines that don't break silently, and docu
 
 ## Projects
 
-### 🗄️ End-to-End Uber Data Engineering Pipeline using Databricks and DBT Cloud 
-A production-style data pipeline built entirely on Databricks and DBT Cloud. Raw data is ingested, processed with PySpark, transformed and tested with dbt, and served to downstream consumers. Covers medallion architecture (bronze → silver → gold), incremental models, and data quality checks.
+### 🗄️ End-To-End Uber Data Engineering Pipeline using Databricks and DBT Cloud 
+An end-to-end modern data engineering project that ingests Uber trip data, transforms it using Databricks and dbt Cloud, and builds an analytics-ready data warehouse following the Medallion Architecture.
 
-`Apache Spark` `dbt` `Databricks` `SQL`
+`Python` `Apache Spark` `SQL` `DBT Cloud` `Databricks`
 
 ---
 
-### 🤟 Sign Language Recognition System
-A computer vision model that classifies sign language gestures in real time. Built with Python, trained on annotated hand gesture data, with a lightweight interface for live webcam inference. Designed to make communication more accessible.
+### 🤟 Sign Language Recognition System — RAG Data Pipeline
+A scalable Retrieval-Augmented Generation (RAG) data pipeline built to ingest, clean, and prepare multimodal sign language dataset metadata for downstream model training. The pipeline handles 71 classification categories, leveraging distributed processing and vector search to ensure high-quality, consistent training data.
 
-`Python` `OpenCV` `TensorFlow/Keras` `NumPy`
+`Python` `Apache Spark` `Vector DB` `Git`
 
 ---
 
@@ -40,10 +41,10 @@ A computer vision model that classifies sign language gestures in real time. Bui
 | Area | Tools |
 |---|---|
 | Languages | Python · SQL |
-| Data Engineering | PySpark · dbt · Hadoop |                                                          
-| Platforms | Databricks · AWS S3 · PostgreSQL |
-| Analytics & Viz | Power BI · Tableau · Pandas |
-| Other | Django · Git |
+| Data Analytics |  Data Preprocessing · Exploratory Data Analysis (EDA) · KPIs . Dashboard Development . Data-Driven Decision Making . Performance Reporting | 
+| Data Engineering | ETL/ELT · Batch/Stream Processing (Spark Streaming, Spark SQL) · Data Modeling . Medallion Architecture | 
+| Tools & Platforms | Power BI · Tableau . Excel . Databricks · DBT · MySQL . MongoDB . Git/GitHub . Linux |
+| Big Data Ecosystem | Apache Spark · Hadoop (HDFS, Hive) · Apache Kafka |
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -51,9 +52,9 @@ A computer vision model that classifies sign language gestures in real time. Bui
 
 ## Currently
 
-🟢 Deepening my Databricks + dbt skills — working on a more complex multi-source pipeline with real-world schemas. Also brushing up on distributed systems fundamentals and exploring Kafka for streaming data.
+🟢 Deepening my Data Engineering and Data Analysis skills — working on a more complex multi-source pipeline with real-world schemas. And brushing up on analytics fundamentals and exploring for dashboards development dynamically.
 
-Actively looking for **remote data engineering roles** where I can build robust pipelines from day one.
+Actively looking for **remote data roles** where I can build robust pipelines and performance reports & dashboards from day one.
 
 ---
 
