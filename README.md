@@ -25,6 +25,13 @@ I care about code that's readable, pipelines that don't break silently, and docu
 
 ## Projects
 
+### 🗄️ End-To-End Financial Data Analytics Project 
+An interactive Bank Loan Report built using Microsoft Power BI to evaluate bank loan performance. This project transforms raw bank loan data into meaningful business intelligence through interactive visualizations, KPIs and DAX measures.
+
+`Python` `SQL` `Power BI` `DAX` `Data Modeling`
+
+---
+
 ### 🗄️ End-To-End Uber Data Engineering Pipeline using Databricks and DBT Cloud 
 An end-to-end modern data engineering project that ingests Uber trip data, transforms it using Databricks and dbt Cloud, and builds an analytics-ready data warehouse following the Medallion Architecture.
 
