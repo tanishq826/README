@@ -13,7 +13,10 @@
 
 ## About
 
-CDAC - Certified Computer Engineering Graduate specialized in Python, SQL, Data Analysis and Big Data Technologies via Post Graduate Diploma in Big Data Analytics (CDAC Bangalore). Hands-on experience in building scalable ETL/ELT pipelines, implementing Medallion Architectures, structuring RAG data workflows and having strong analytical and communication skills to optimize business performance and drive data-informed decisions. 
+Microsoft Certified: SQL AI Developer Associate with a practical exposure in Data Analytics and Big Data
+Technologies. Built scalable ETL/ELT pipelines and Transformed raw data into meaningful insights using Statistical
+Analysis and Data Visualization techniques for solving problems and continuously learning modern analytics tools
+and techniques 
 
 
 I care about code that's readable, pipelines that don't break silently, and documentation that actually explains things.
