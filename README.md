@@ -50,11 +50,11 @@ A scalable Retrieval-Augmented Generation (RAG) data pipeline built to ingest, c
 
 | Area | Tools |
 |---|---|
-| Languages | Python · SQL |
-| Data Analytics |  Data Preprocessing · Exploratory Data Analysis (EDA) · KPIs . Dashboard Development . Data-Driven Decision Making . Performance Reporting | 
-| Data Engineering | ETL/ELT · Batch/Stream Processing (Spark Streaming, Spark SQL) · Data Modeling . Medallion Architecture | 
-| Tools & Platforms | Power BI · Tableau . Excel . Databricks · DBT · MySQL . MongoDB . Git/GitHub . Linux |
-| Big Data Ecosystem | Apache Spark · Hadoop (HDFS, Hive) · Apache Kafka |
+| Languages | Python (Pandas and NumPy) · SQL |
+| Data Analytics |  Power BI (Power Query and DAX) · Advanced Excel · KPIs . Exploratory Data Analysis (EDA) . MS Office (PowerPoint, Word, Outlook) | 
+| Data Engineering | ETL/ELT · Azure Databricks · Azure Data Factory (ADF) · DBT · Data Modeling . Data Warehousing · Medallion Architecture | 
+| AI Tools & Platforms | Julius AI · Microsoft Copilot · Google Gemini · Claude · Git/GitHub |
+| Big Data Ecosystem | Apache Spark (PySpark & Spark SQL) · Hadoop (HDFS, Hive) · Apache Kafka |
 
 ---
 
