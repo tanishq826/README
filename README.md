@@ -25,21 +25,21 @@ I care about code that's readable, pipelines that don't break silently, and docu
 
 ## Projects
 
-### 🗄️ End-To-End Financial Data Analytics Project 
+### 🏦 End-To-End Financial Data Analytics Project 
 An interactive Bank Loan Report built using Microsoft Power BI to evaluate bank loan performance. This project transforms raw bank loan data into meaningful business intelligence through interactive visualizations, KPIs and DAX measures.
 
 `Python` `SQL` `Power BI` `DAX` `Data Modeling`
 
 ---
 
-### 🗄️ End-To-End Uber Data Engineering Pipeline using Databricks and DBT Cloud 
+### 🛢 End-To-End Uber Data Engineering Pipeline using Databricks and DBT Cloud 
 An end-to-end modern data engineering project that ingests Uber trip data, transforms it using Databricks and dbt Cloud, and builds an analytics-ready data warehouse following the Medallion Architecture.
 
 `Python` `Apache Spark` `SQL` `DBT Cloud` `Databricks`
 
 ---
 
-### 🤟 Sign Language Recognition System — RAG Data Pipeline
+### ⚛︎ Sign Language Recognition System — RAG Data Pipeline
 A scalable Retrieval-Augmented Generation (RAG) data pipeline built to ingest, clean, and prepare multimodal sign language dataset metadata for downstream model training. The pipeline handles 71 classification categories, leveraging distributed processing and vector search to ensure high-quality, consistent training data.
 
 `Python` `Apache Spark` `Vector DB` `Git`
